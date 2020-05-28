@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">trivia</string>
+    <string name="correct">correct answer!</string>
+    <string name="wrong">wrong answer:(</string>
+    <string name="x1">q1(answer is a)</string>
+    <string name="x2">q2(answer is c)</string>
+    <string name="x3">q3(answer is b)</string>
+    <string name="x4">q4(answer is c)</string>
+    <string name="x5">q5(answer is d)</string>
+    <string name="x6">q6(answer is a)</string>
+    <string name="x7">q7(answer is c)</string>
+    <string name="x8">q8(answer is b)</string>
+    <string name="x9">q9(answer is c)</string>
+    <string name="x10">q10(answer is d)</string>
+    <string name="y1">q1</string>
+    <string name="y2">q2</string>
+    <string name="y3">q3</string>
+    <string name="y4">q4</string>
+    <string name="y5">q5</string>
+    <string name="y6">q6</string>
+    <string name="y7">q7</string>
+    <string name="y8">q8</string>
+    <string name="y9">q9</string>
+    <string name="y10">q10</string>
+    <string name="z1">q1</string>
+    <string name="z2">q2</string>
+    <string name="z3">q3</string>
+    <string name="z4">q4</string>
+    <string name="z5">q5</string>
+    <string name="z6">q6</string>
+    <string name="z7">q7</string>
+    <string name="z8">q8</string>
+    <string name="z9">q9</string>
+    <string name="z10">q10</string>
+
+</resources>
