@@ -40,16 +40,16 @@ public class x extends AppCompatActivity {
     };
 
     String[] a=new String[]{
-            "x1a","x2a","x3a","x4a","x5a","x6a","x7a","x8a","x9a","x10a"
+            "Jean","O Henry","Gore Vidal","Robert Geller","Tulips","Robert Frost","Roald Dahl","Tapesh Babu","Music","Antonio"
     };
     String[] b=new String[]{
-            "x1b","x2b","x3b","x4b","x5b","x6b","x7b","x8b","x9b","x10b"
+            "Bilius","F.Scott Fitzgerald","Rabindranath Tagore","Robert Baldacci","A Tear and A Smile","Oscar Wilde","Rabindranath Tagore","Pradosh C Mittar","Alcohol","Bassanio"
     };
     String[] c=new String[]{
-            "x1c","x2c","x3c","x4c","x5c","x6c","x7c","x8c","x9c","x10c"
+            "Mildred","Oscar Wilde","Voltaire","Robert Galbraith","Whisper","Sylvia Plath","Ruskin Bond","Laxman G Bhatt","Books","Gratiano"
     };
     String[] d=new String[]{
-            "x1d","x2d","x3d","x4d","x5d","x6d","x7d","x8d","x9d","x10d"
+            "Leanne","Mary Shelly","Mahatma Gandhi","Robert Baratheon","Annabelle Lee","Edgar Allen Poe","Arundhati Roy","Aniruddh Ghosh","Dance","Portia"
     };
 
 
